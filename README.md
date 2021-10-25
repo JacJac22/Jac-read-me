@@ -24,6 +24,7 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[ECA](#ECA) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -83,3 +84,12 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+
+<!-- ECA Section Starts -->
+## ECA
+<!-- Add your details -->
+#####Sports
+Swim
+
+<!-- ECA Section Ends -->
